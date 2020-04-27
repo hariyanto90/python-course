@@ -12,3 +12,4 @@ tes penggunaan git
 - Tambahkann ke daftar file yang diubah dengan git add
 - Simpan perubahan dengan git commit
 - Kirim perubahan ke github dengan git push
+- Perubahan
