@@ -22,3 +22,8 @@ tes penggunaan git
 - mengcommit code dan mereview perubahan pada  file terlebih dahulu sebelum mengirimkan ke server
 - mempush branch tersebut
 
+## Kesimpulan manfaat Git
+- bisa mennyimpan file di server tanpa takut hardisk rusak
+- bisa berkolaborasi dengan team 
+
+
