@@ -19,6 +19,6 @@ tes penggunaan git
 - bekerja tidak pada master, namun pada branch tersendiri
 - mempush branch baru tersebut (atau mempush jika sudah ada commit)
 - merubah code pada branch tersebut
-- mengcommit code dan mereview code sebelum di kirim ke server
+- mengcommit code dan mereview perubahan pada  file terlebih dahulu sebelum mengirimkan ke server
 - mempush branch tersebut
 
