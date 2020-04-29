@@ -13,3 +13,12 @@ tes penggunaan git
 - Simpan perubahan dengan git commit
 - Kirim perubahan ke github dengan git push
 - Perubahan
+
+## Tambahkan Subchapter Git di Team
+- membuka project yang sudah di clone di command line
+- bekerja tidak pada master, namun pada branch tersendiri
+- mempush branch baru tersebut (atau mempush jika sudah ada commit)
+- merubah code pada branch tersebut
+- mengcommit code
+- mempush branch tersebut
+
